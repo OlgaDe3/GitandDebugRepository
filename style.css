@@ -1,0 +1,130 @@
+body, html {
+  width: 100%;
+  margin: 0%;
+}
+
+.c1 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  margin: auto;
+  background-image: url("water.jpg");
+}
+
+.c2 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  margin: auto;
+  background-image: url("ice.jpeg");
+}
+
+.c3 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  margin: auto;
+  background-image: url("ice2.jpeg");
+}
+
+.c4 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  margin: auto;
+  background-image: url("nature.jpg");
+}
+
+h1, h2 {
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 50px;
+  padding-bottom: 90px;
+  font-size: 25pt;
+}
+
+h2 {
+  font-size: 20pt;
+  margin: auto;
+  padding-top: 10%;
+}
+
+a :hover {
+  background-color: #b4bffa;
+  color: #111212;
+  font-size: 30px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  font-weight: bold;
+  -webkit-transition: 2s ease-in-out;
+  transition: 2s ease-in-out;
+  -webkit-box-shadow: 5px 10px 18px 5px #06205e;
+  box-shadow: 5px 10px 18px 5px #06205e;
+}
+
+.icons {
+  float: left;
+  width: 80px;
+  padding-left: 15px;
+  position: fixed;
+}
+
+.icons :hover {
+  background-color: #030112;
+  color: #16f0b6;
+  -webkit-transition: 3s ease-out;
+  transition: 3s ease-out;
+}
+
+.fa-brands {
+  color: #3d5451;
+  height: 30px;
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+
+.fa-twitter {
+  color: #59a7d4;
+}
+
+.fa-instagram {
+  color: #c22980;
+}
+
+.fa-facebook {
+  color: #2a1982;
+}
+
+.fa-pinterest {
+  color: #d91111;
+}
+
+.button {
+  margin: auto;
+  padding-left: 300px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+button {
+  font-size: 20px;
+  background-color: #3f4d9e;
+  color: #fff;
+  border: 2px solid #3c4b9e;
+  margin: auto;
+  width: 200px;
+}
+/*# sourceMappingURL=style.css.map */
